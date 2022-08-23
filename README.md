@@ -12,7 +12,7 @@ HTML 5, CSS3, currently learning JavaScript.
 
 
 Kindly connect with me:
-linkedIn:https://www.linkedin.com/in/lukman-gbolahan/ 
+linkedIn:https://www.linkedin.com/in/lukman-gbolahan-a/ 
 Twitter : https://www.twitter.com/lukedigital1 
 Email: akingbolahan08@gmail.com
 

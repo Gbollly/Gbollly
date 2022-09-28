@@ -1,5 +1,5 @@
 # About me(just briefly for now...more details coming soon):
-I’m a tech enthusiast and a self taught Frontend Developer👨‍💻 (over 50% 😎) With proficiency in HTML, CSS and JavaScript(..still learning tho).
+I’m Lukman Gbolahan, a tech enthusiast and a self taught Frontend Developer👨‍💻 (over 50% 😎) With proficiency in HTML, CSS and JavaScript(..still learning tho).
 I love bring new innovations and creating changes that would be impactful in our daily activities. 
 
 Initially, I used to be an ecommerce store developer, helping clients build and develop a profitable online store using CMS platforms such as Wordpress, Wix, Shopify, Godaddy and so on.

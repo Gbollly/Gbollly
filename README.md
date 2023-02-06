@@ -14,7 +14,7 @@ HTML 5, CSS3, currently learning JavaScript.
 # Kindly connect with me:
 -linkedIn: https://www.linkedin.com/in/lukman-gbolahan-a-988838232
 
--Twitter : https://www.twitter.com/lukedigital1 
+-Twitter : https://www.twitter.com/Bigbolly_
 
 -Email: akingbolahan08@gmail.com
 
